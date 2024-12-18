@@ -19,7 +19,7 @@ public class MatrixOperations {
 
         // Підрухунок суми найменших елементів в кожній колонці
         long sumOfSmallestElements = sumOfSmallestElementsInColumns(transposedMatrix);
-        System.out.println("Sum of the smallest elements in each column: " + sumOfSmallestElements);
+        System.out.println("Сума найменших елементів в кожній колонці: " + sumOfSmallestElements);
     }
 
     // Транспонування
